@@ -1,0 +1,142 @@
+{
+    "BÂ¥":{
+        "1²ã":{
+            "B106":"[False, False, True, True, True, True]",
+            "B108":"[True, False, True, False, True, True]"
+        },
+        "2²ã":{
+            "B205":"[True, False, True, True, False, False]",
+            "B209":"[True, True, True, True, True, False]"
+        },
+        "3²ã":{
+            "B301":"[False, True, True, True, True, True]",
+            "B305":"[False, False, True, True, True, True]",
+            "B307":"[False, False, True, True, True, True]"
+        },
+        "4²ã":{
+            "B401":"[False, True, True, True, True, True]",
+            "B407":"[False, False, True, False, True, True]"
+        }
+    },
+    "GÂ¥":{
+        "1²ã":{
+            "G101":"[False, False, True, False, True, True]"
+        },
+        "2²ã":{
+            "G201":"[False, False, True, True, True, True]",
+            "G203":"[True, True, False, True, True, True]"
+        }
+    },
+    "HÂ¥":{
+        "3²ã":{
+            "H324":"[False, False, False, False, True, True]",
+            "H326":"[False, True, True, True, True, True]",
+            "H328":"[False, False, True, False, True, True]",
+            "H330":"[True, True, False, False, True, True]"
+        },
+        "4²ã":{
+            "H425":"[False, True, True, True, False, True]",
+            "H427":"[True, True, False, True, True, True]",
+            "H429":"[True, False, False, False, True, True]",
+            "H431":"[False, False, True, True, True, True]",
+            "H434":"[False, True, False, False, True, True]",
+            "H441":"[True, False, False, True, True, True]",
+            "H447":"[True, False, True, True, True, True]",
+            "H449":"[False, False, True, True, True, True]",
+            "H453":"[False, False, True, True, True, True]",
+            "H456":"[False, True, True, False, True, True]",
+            "H460":"[False, True, True, True, True, True]",
+            "H463":"[True, False, False, False, True, True]",
+            "H466":"[True, False, False, False, True, True]"
+        },
+        "5²ã":{
+            "H520":"[False, False, False, False, False, True]",
+            "H522":"[False, True, False, False, True, True]",
+            "H525":"[False, True, True, True, True, True]",
+            "H527":"[False, True, True, True, True, True]"
+        }
+    },
+    "MÂ¥":{
+        "1²ã":{
+            "M102":"[False, False, False, False, True, True]",
+            "M104":"[False, False, False, True, True, True]",
+            "M105":"[False, False, False, False, True, True]",
+            "M106":"[False, False, True, True, True, True]",
+            "M108":"[False, False, True, True, True, True]"
+        },
+        "2²ã":{
+            "M201":"[False, True, False, True, True, True]",
+            "M203":"[False, True, True, True, True, True]",
+            "M204":"[False, False, True, False, True, True]",
+            "M205":"[False, False, True, True, True, True]",
+            "M207":"[False, False, False, False, True, True]"
+        },
+        "3²ã":{
+            "M303":"[True, False, True, True, True, True]",
+            "M304":"[True, False, True, False, True, True]",
+            "M305":"[False, False, True, True, True, True]",
+            "M307":"[False, True, False, False, True, True]"
+        }
+    },
+    "NÂ¥":{
+        "1²ã":{
+            "N112":"[False, False, False, True, True, True]",
+            "N114":"[False, True, True, False, True, True]",
+            "N116":"[False, False, True, True, True, True]",
+            "N118":"[True, False, True, False, True, True]"
+        },
+        "2²ã":{
+            "N206":"[False, True, False, False, True, True]",
+            "N208":"[True, True, False, False, True, True]",
+            "N218":"[False, False, False, True, True, True]",
+            "N221":"[False, False, False, True, True, True]",
+            "N223":"[False, False, True, False, True, True]",
+            "N225":"[False, True, False, False, True, True]",
+            "N227":"[False, False, False, False, True, True]",
+            "N240":"[False, False, False, False, True, True]",
+            "N249":"[False, True, False, False, True, True]",
+            "N251":"[False, False, False, False, True, True]",
+            "N253":"[False, True, False, False, True, True]",
+            "N255":"[False, True, False, False, True, True]",
+            "N257":"[True, False, True, False, True, True]"
+        },
+        "3²ã":{
+            "N301":"[False, False, False, False, True, True]",
+            "N304":"[False, False, False, False, True, True]",
+            "N310":"[False, True, False, False, True, True]",
+            "N313":"[True, True, False, False, True, True]",
+            "N315":"[True, True, False, False, True, True]",
+            "N325":"[True, False, False, False, True, True]",
+            "N327":"[True, False, False, False, True, True]",
+            "N329":"[True, False, False, True, True, True]",
+            "N331":"[False, False, False, False, True, True]",
+            "N333":"[False, False, False, False, True, True]",
+            "N335":"[False, True, True, False, True, True]",
+            "N337":"[False, True, True, False, True, True]",
+            "N343":"[True, False, False, False, True, True]",
+            "N353":"[True, True, False, False, True, True]",
+            "N355":"[True, True, False, False, True, True]",
+            "N357":"[False, True, False, False, True, True]",
+            "N359":"[True, False, False, False, True, True]",
+            "N361":"[True, False, True, False, True, True]",
+            "N363":"[False, True, False, True, True, True]"
+        },
+        "4²ã":{
+            "N401":"[True, False, False, True, True, True]",
+            "N403":"[False, True, True, True, True, True]",
+            "N411":"[False, True, False, True, True, True]",
+            "N413":"[True, False, False, True, True, True]",
+            "N415":"[False, True, True, True, True, True]",
+            "N425":"[False, True, True, True, True, True]",
+            "N427":"[False, False, True, True, True, True]",
+            "N432":"[False, True, True, True, True, True]",
+            "N433":"[False, True, False, True, True, True]",
+            "N442":"[True, False, False, True, True, True]",
+            "N444":"[True, True, False, True, True, True]",
+            "N447":"[True, False, False, True, True, True]",
+            "N448":"[True, False, False, True, True, True]"
+        }
+    },
+    "day":1,
+    "week":8
+}
